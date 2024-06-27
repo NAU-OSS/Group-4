@@ -1,5 +1,5 @@
 ## Group-4
-#CS 599 Group 4 Repo
+**CS 599 Group 4 Repo**
 ### Table of Contents
 Getting Started
 Usage
