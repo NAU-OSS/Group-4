@@ -1,9 +1,9 @@
 ## Group-4
 **CS 599 Group 4 Repo**
 ### Table of Contents
-Getting Started
-Usage
-Contributing
+- Getting Started
+- Usage
+- Contributing
 
 ### Getting Started
 To get started with this simplified version of Yahtzee, you will need a C compiler to compile and run the program. Follow these steps to set up and run the program:
