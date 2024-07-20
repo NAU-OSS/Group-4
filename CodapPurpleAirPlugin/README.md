@@ -11,7 +11,7 @@ To get started with CodapPurpleAirPlugin, you will need to set up your developme
 
 1. **Clone the repository**:
     ```
-    https://github.com/NAU-OSS/Group-4/tree/main/CodapPurpleAirPlugin
+    git clone https://github.com/NAU-OSS/Group-4/tree/main/CodapPurpleAirPlugin
     cd CodapPurpleAirPlugin
     ```
 
