@@ -1,38 +1,43 @@
-## Group-4
-**CS 599 Group 4 Repo**
+## CodapPurpleAirPlugin
+**CodapPurpleAirPlugin Repo**
+
 ### Table of Contents
-- Getting Started
-- Usage
-- Contributing
+- Introduction
+- Our Standards
+- Our Responsibilities
+- Scope
+- Enforcement
+- Attribution
 
-### Getting Started
-To get started with this simplified version of Yahtzee, you will need a C compiler to compile and run the program. Follow these steps to set up and run the program:
-Clone the repository:
-git clone https://github.com/yourusername/yahtzee-simplified.git
-cd yahtzee-simplified
-Compile the program
-gcc -o yahtzee yahtzee.c
-Run the program:
-./yahtzee
+### Introduction
+The CodapPurpleAirPlugin project aims to provide a robust and user-friendly plugin for integrating PurpleAir sensor data into CODAP (Common Online Data Analysis Platform). We are committed to creating a welcoming and inclusive environment for everyone, regardless of experience level, background, or identity.
 
-### Usage
-The program will simulate rolling five dice and then categorize the result based on Yahtzee scoring rules. Here is a step-by-step guide on how to use the program:
-Roll the Dice: The program will automatically roll five dice, generating random numbers between 1 and 6.
-Display the Dice: The rolled dice will be displayed on the screen.
-Categorize the Roll: The program will check the rolled numbers and determine the highest scoring category:
-Yahtzee: All five dice show the same number.
-Large Straight: A sequence of five consecutive numbers.
-Small Straight: A sequence of four consecutive numbers.
-Full House: Three dice show one number, and two dice show another number.
-Four of a Kind: Four dice show the same number, and one die shows another number.
-Three of a Kind: Three dice show the same number, and the other two dice show two other distinct numbers.
-No Play: The roll does not match any of the above categories.
+### Our Standards
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone. Examples of behavior that contributes to creating a positive environment include:
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
 
-### Contributing
-Contributions are welcome! To contribute to this project, follow these steps:
-Fork the repository
-Create a new branch
-Make your changes and commit:
-Push to the branch:
-git push origin feature-name
-Create a Pull Request: Go to the repository on GitHub and create a pull request to merge your changes into the main branch.
+Examples of unacceptable behavior by participants include:
+- The use of sexualized language or imagery and unwelcome sexual attention or advances
+- Trolling, insulting/derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others’ private information, such as a physical or electronic address, without explicit permission
+- Other conduct which could reasonably be considered inappropriate in a professional setting
+
+### Our Responsibilities
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior. Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+
+### Scope
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+
+Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+
+### Attribution
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+---
+
+This Code of Conduct provides clear guidelines for behavior within the project, outlining acceptable and unacceptable actions, responsibilities of maintainers, and enforcement policies.
