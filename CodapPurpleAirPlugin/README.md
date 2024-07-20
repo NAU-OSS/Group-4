@@ -11,7 +11,7 @@ To get started with CodapPurpleAirPlugin, you will need to set up your developme
 
 1. **Clone the repository**:
     ```
-    git clone https://github.com/yourusername/CodapPurpleAirPlugin.git
+    git clone https://github.com/Group-4/CodapPurpleAirPlugin.git
     cd CodapPurpleAirPlugin
     ```
 
@@ -39,7 +39,7 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 1. **Fork the repository**:
     ```
-    git fork https://github.com/yourusername/CodapPurpleAirPlugin.git
+    git fork https://github.com/Group-4/CodapPurpleAirPlugin.git
     ```
 
 2. **Create a new branch**:
